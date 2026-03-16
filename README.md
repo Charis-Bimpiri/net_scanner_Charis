@@ -37,6 +37,9 @@ Open ports are matched against a dictionary of well-known port-to-service mappin
 **Report Generation**
 Reports include the target host, scan timestamp, and a list of open ports with their associated services. Reports are saved as `.txt` files in the `reports/` directory.
 
+## Environment
+Developed and tested on Ubuntu 24 (VirtualBox)
+
 ## Usage
 
 ```bash
